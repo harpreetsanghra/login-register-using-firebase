@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "582193146835",
+    "firebase_url": "https://fir-signinandlogin.firebaseio.com",
+    "project_id": "fir-signinandlogin",
+    "storage_bucket": "fir-signinandlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582193146835:android:c985294f6c775c4b",
+        "android_client_info": {
+          "package_name": "com.example.harpreet.firebasesigninandlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582193146835-0k0ncve6a2p9u0vunfkeolmg8ssetud1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm-bW0laXfJ-4UnYgN5-FcyeOSURVyBgI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
